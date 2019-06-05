@@ -1,0 +1,8 @@
+{
+    "name": "Alex Abbott",
+    "description": "Firend Finder",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+}
